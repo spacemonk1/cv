@@ -1,0 +1,22 @@
+img {
+  align-content: center;
+  height: 200px;
+  width: 200px;
+}
+p {
+  font-family: 'Sedgwick Ave', cursive;
+  text-align: center;
+}
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;      /*1rem=16px*/
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+.top-container {
+  background-color: #596e79;
+  background-size: auto;
+  height: 500px;
+  margin: 0;
+  text-align: center;
+}
